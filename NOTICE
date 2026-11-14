@@ -1,0 +1,9 @@
+WebServe: educational C++14 HTTP server reproduction.
+Copyright 2026 binhanchen25-arch.
+
+Architecture and feature reference: markparticle/WebServer
+https://github.com/markparticle/WebServer
+Reference revision: 3b37520 (Apache License 2.0).
+The reference project credits 游双, Linux高性能服务器编程,
+and qinguoyi/TinyWebServer. Original LICENSE retained.
+This repository reimplements the server and uses original minimal web pages.

@@ -1,0 +1,6 @@
+build/
+bin/
+*.log
+.env
+__pycache__/
+.release/
